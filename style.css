@@ -1,0 +1,137 @@
+body{
+  background-color: #f9bd70;
+  margin: 0;
+  padding: 0;
+  font-size: 23px;
+  line-height: 35px;
+  font-family: 'Dosis', Arial, sans-serif;
+}
+
+h1, h2{
+  margin: 0;
+  text-transform: uppercase;
+}
+
+p{
+  margin: 0;
+}
+
+ul, ol {
+  margin: 0;
+  padding-left: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+  
+}
+
+a:hover{
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.container{
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.cv_header {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.cv_person {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.cv_main {
+  margin-bottom: 40px;
+}
+
+.cv_summary {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.cv_skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+ul {
+  padding: 0;
+  width: 75%;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  padding-right: 25px;
+}
+
+.cv_codexmpl {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cv_codexmpl h2 {
+  margin-bottom: 10px;
+}
+
+.cv_code {
+  background-color: #c1c1c1;
+  width: 70%;
+  padding: 15px;
+}
+
+.cv_experience {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cv_educ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cv_eng {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cv_eng h2 {
+  margin-bottom: 7px;
+}
+
+.cv_footer {
+  margin-bottom: 30px;
+}
+
+.cv_cont_info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cv_mobile span {
+  font-weight: bold;
+}
+
+.cv_mail span {
+  font-weight: bold;
+}
+
+
