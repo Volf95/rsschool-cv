@@ -30,5 +30,15 @@ function solution(str) {
 console.log(solution('world'));
 ```
 
+## Experience:
+I have done a few mini-projects when listened Web Development courses.
+
+## Education:
+1. 2013-2017 Tashkent Institute of Railway Engineering
+2. Complex course: HTML, CSS for the Web Development
+3. Basic JavaScript + jQuery + Bootstrap
+4. Basics of PHP programming for the dynamic web sites
+5. Front End Development Track (One Million Uzbek Coders)
+
 ## English:
 English level A2 (Pre-Intermediate)
